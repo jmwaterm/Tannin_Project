@@ -226,6 +226,8 @@ Here is my code for adding images
 
 ![](https://cloud.githubusercontent.com/assets/22089219/18390573/ac97d668-7678-11e6-9f9b-09660bf829a7.png)
 
+![](https://cloud.githubusercontent.com/assets/22089219/18390769/8c6a0a90-7679-11e6-859e-3f62b6a5504d.jpg)
+
 ------
 <div id='id-section2'/>
 ### Page 2: 2016-06-16 title 
