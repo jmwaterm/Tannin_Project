@@ -219,7 +219,12 @@ Tannin project UVM 2016-
 ### Page 1: 2016-07-08.  test
 
 Here is my webpage for [Jamie](http://adnguyen.github.io)
+Here is my code for adding images
+```
+![]()
+```
 
+![](https://cloud.githubusercontent.com/assets/22089219/18390573/ac97d668-7678-11e6-9f9b-09660bf829a7.png)
 
 ------
 <div id='id-section2'/>
