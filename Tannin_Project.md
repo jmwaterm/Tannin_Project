@@ -225,6 +225,8 @@ Here is my code for adding images
 ```
 
 ![](https://cloud.githubusercontent.com/assets/22089219/18390573/ac97d668-7678-11e6-9f9b-09660bf829a7.png)
+reference for pic:    
+Floate, K. D., J. Godbout, M. K. Lau, N. Isabel, and T. G. Whitham. 2016. Plant-herbivore interactions in a trispecific hybrid swarm of Populus: assessing support for hypotheses of hybrid bridges, evolutionary novelty and genetic similarity. New Phytol. 209:832–844.
 
 ![](https://cloud.githubusercontent.com/assets/22089219/18390769/8c6a0a90-7679-11e6-859e-3f62b6a5504d.jpg)
 
